@@ -1,0 +1,161 @@
+{
+    "url" : "GET https://api.fitbit.com/1.2/user/-/sleep/date/${date}.json",
+  "sleep": [
+    {
+      "dateOfSleep": "2025-10-25",
+      "duration": 12900000,
+      "efficiency": 80,
+      "startTime": "2025-10-25T04:36:30.000",
+      "endTime": "2025-10-25T08:11:30.000",
+      "infoCode": 0,
+      "isMainSleep": true,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2025-10-25T04:36:30.000",
+            "level": "wake",
+            "seconds": 840
+          },
+          {
+            "dateTime": "2025-10-25T04:50:30.000",
+            "level": "light",
+            "seconds": 570
+          },
+          {
+            "dateTime": "2025-10-25T05:00:00.000",
+            "level": "deep",
+            "seconds": 1050
+          },
+          {
+            "dateTime": "2025-10-25T05:17:30.000",
+            "level": "light",
+            "seconds": 390
+          },
+          {
+            "dateTime": "2025-10-25T05:24:00.000",
+            "level": "deep",
+            "seconds": 1410
+          },
+          {
+            "dateTime": "2025-10-25T05:47:30.000",
+            "level": "light",
+            "seconds": 1050
+          },
+          {
+            "dateTime": "2025-10-25T06:05:00.000",
+            "level": "rem",
+            "seconds": 30
+          },
+          {
+            "dateTime": "2025-10-25T06:05:30.000",
+            "level": "light",
+            "seconds": 30
+          },
+          {
+            "dateTime": "2025-10-25T06:06:00.000",
+            "level": "rem",
+            "seconds": 690
+          },
+          {
+            "dateTime": "2025-10-25T06:17:30.000",
+            "level": "light",
+            "seconds": 270
+          },
+          {
+            "dateTime": "2025-10-25T06:22:00.000",
+            "level": "rem",
+            "seconds": 30
+          },
+          {
+            "dateTime": "2025-10-25T06:22:30.000",
+            "level": "light",
+            "seconds": 4050
+          },
+          {
+            "dateTime": "2025-10-25T07:30:00.000",
+            "level": "wake",
+            "seconds": 450
+          },
+          {
+            "dateTime": "2025-10-25T07:37:30.000",
+            "level": "light",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2025-10-25T07:38:30.000",
+            "level": "rem",
+            "seconds": 870
+          },
+          {
+            "dateTime": "2025-10-25T07:53:00.000",
+            "level": "wake",
+            "seconds": 1110
+          }
+        ],
+        "shortData": [
+          {
+            "dateTime": "2025-10-25T05:55:00.000",
+            "level": "wake",
+            "seconds": 30
+          },
+          {
+            "dateTime": "2025-10-25T06:17:00.000",
+            "level": "wake",
+            "seconds": 30
+          },
+          {
+            "dateTime": "2025-10-25T06:56:00.000",
+            "level": "wake",
+            "seconds": 30
+          },
+          {
+            "dateTime": "2025-10-25T07:11:30.000",
+            "level": "wake",
+            "seconds": 60
+          }
+        ],
+        "summary": {
+          "deep": {
+            "count": 2,
+            "minutes": 41,
+            "thirtyDayAvgMinutes": 0
+          },
+          "light": {
+            "count": 10,
+            "minutes": 105,
+            "thirtyDayAvgMinutes": 0
+          },
+          "rem": {
+            "count": 4,
+            "minutes": 26,
+            "thirtyDayAvgMinutes": 0
+          },
+          "wake": {
+            "count": 7,
+            "minutes": 42,
+            "thirtyDayAvgMinutes": 0
+          }
+        }
+      },
+      "logId": 4068736353534717400,
+      "minutesAfterWakeup": 0,
+      "minutesAwake": 42,
+      "minutesAsleep": 172,
+      "minutesToFallAsleep": 0,
+      "logType": "auto_detected",
+      "timeInBed": 215,
+      "type": "stages"
+    }
+  ],
+  "summary": {
+    "totalMinutesAsleep": 172,
+    "totalSleepRecords": 1,
+    "totalTimeInBed": 215,
+    "stages": {
+      "deep": 41,
+      "light": 105,
+      "rem": 26,
+      "wake": 42
+    }
+  }
+}

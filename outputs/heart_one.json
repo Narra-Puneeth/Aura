@@ -1,0 +1,75 @@
+{
+  "activities-heart": [
+    {
+      "value": {
+        "customHeartRateZones": [],
+        "heartRateZones": [
+          {
+            "caloriesOut": 2304.39726,
+            "max": 126,
+            "min": 30,
+            "minutes": 1440,
+            "name": "Out of Range"
+          },
+          {
+            "caloriesOut": 0,
+            "max": 151,
+            "min": 126,
+            "minutes": 0,
+            "name": "Fat Burn"
+          },
+          {
+            "caloriesOut": 0,
+            "max": 182,
+            "min": 151,
+            "minutes": 0,
+            "name": "Cardio"
+          },
+          {
+            "caloriesOut": 0,
+            "max": 220,
+            "min": 182,
+            "minutes": 0,
+            "name": "Peak"
+          }
+        ],
+        "restingHeartRate": 76
+      },
+      "dateTime": "2025-10-25"
+    }
+  ],
+  "activities-heart-intraday": {
+    "dataset": [
+      {
+        "time": "00:40:00",
+        "value": 70
+      },
+      {
+        "time": "00:41:00",
+        "value": 96
+      },
+      {
+        "time": "00:42:00",
+        "value": 104
+      },
+      {
+        "time": "00:43:00",
+        "value": 104
+      },
+      {
+        "time": "00:44:00",
+        "value": 93
+      },
+      {
+        "time": "01:10:00",
+        "value": 70
+      },
+      {
+        "time": "23:48:00",
+        "value": 81
+      }
+    ],
+    "datasetInterval": 1,
+    "datasetType": "minute"
+  }
+}

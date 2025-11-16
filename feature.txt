@@ -1,0 +1,33 @@
+1. Health Assessment
+
+Assess users’ mental health using HRV, heart rate, sleep, stress indicators activity data, active zone minutes, VO2 Max, steps, calories, and body metrics.
+
+2. Personalized Meditation
+
+Provide custom meditation sessions (relaxing, energizing, focus) based on user’s stress, activity, and sleep patterns.
+
+3. Breathing Exercises
+
+Recommend breathing routines with varied inhale, exhale, and hold durations tailored to the user’s current stress or recovery state.
+
+4. Journaling
+
+Generate personalized journaling prompts based on stress, sleep quality, emotional state, or user activity trends.
+
+5. AI Therapy
+
+Conduct voice/video-based AI therapy sessions.
+
+Analyze user emotions in real-time to provide supportive feedback or coping strategies.
+
+6. Nutrition & Diet Recommendations
+
+Allow users to enter ingredients they have.
+
+Use an LLM to generate possible dishes.
+
+Perform a web search to fetch recipes and nutritional info.
+
+Display personalized meal suggestions based on fitness goals or dietary preferences.
+
+7. vr studio user can choose any video(forest mountains nature space etc) and audio (calm flute etc) with guided audio (optional)
