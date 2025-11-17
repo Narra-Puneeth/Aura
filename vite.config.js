@@ -10,7 +10,7 @@ export default defineConfig({
         target: 'https://aura-backend-ten.vercel.app',
         changeOrigin: true,
         secure: false,
-        rewrite: (path) => path.replace(/^/api/, '/api')
+        rewrite: (path) => path.replace(/^\/api/, '/api')
       }
     }
   }
