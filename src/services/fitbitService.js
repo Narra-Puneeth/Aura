@@ -1,7 +1,7 @@
 // Fitbit API service
 // Use proxy server to avoid CORS issues
-const FITBIT_API_BASE = 'http://localhost:3001/api/fitbit/1/user/-';
-const FITBIT_SLEEP_API_BASE = 'http://localhost:3001/api/fitbit/1.2/user/-';
+const FITBIT_API_BASE = 'https://aura-backend-ten.vercel.app/api/fitbit/1/user/-';
+const FITBIT_SLEEP_API_BASE = 'https://aura-backend-ten.vercel.app/api/fitbit/1.2/user/-';
 
 // Get access token from environment or localStorage
 export const getStoredAccessToken = () => {

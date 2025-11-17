@@ -32,7 +32,7 @@ const Nutrition = () => {
     setResult(null);
 
     try {
-      const resp = await fetch('/api/nutrition', {
+      const resp = await fetch('https://aura-backend-ten.vercel.app/api/nutrition', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ ingredients, goals, diet })
