@@ -16,7 +16,7 @@ Aura is a cutting-edge, immersive VR therapy website built with React + Vite tha
 - **User Authentication** - Login/Signup with context-based state management
 - **Personalized Dashboard** - Track progress, view stats, and access recommendations
 - **Health Assessment** - Onboarding questionnaire for personalized experiences
-- **Session Library** - Curated therapy sessions for various mental health needs
+- **Session Library** - Curated therapy sessions for various mental health needs 
 
 ### Design Features
 - **Aurora-Inspired Gradients** - Purple, pink, blue, and teal color transitions
