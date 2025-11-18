@@ -164,7 +164,7 @@ All components follow the glass morphism design pattern with:
 - HTC VIVE
 - PICO
 - Desktop browsers (360° mouse navigation)
-- Mobile VR (Google Cardboard)
+- Mobile VR (Google Cardboard) 
 
 ### WebXR Implementation
 The platform uses:
